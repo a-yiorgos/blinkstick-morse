@@ -92,6 +92,7 @@ for word in words:
                                 time.sleep(0.5)
                         sys.stdout.write(symbol)
                 print 
+                time.sleep(0.5)
 
 
 bstick.turn_off()
